@@ -1,0 +1,1177 @@
+/* screen - business-card */
+
+.business-card {
+  background-color: var(--white);
+  height: 4419px;
+  position: relative;
+  width: 1728px;
+}
+
+.business-card .x352-inches-14-pt-card-stock {
+  left: 732px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 890px;
+  white-space: nowrap;
+  width: 292px;
+}
+
+.business-card .standard-business-card {
+  left: 586px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 821px;
+  white-space: nowrap;
+  width: 584px;
+}
+
+.business-card .uncoated {
+  left: 136px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1212px;
+  white-space: nowrap;
+  width: 135px;
+}
+
+.business-card .premium-matte {
+  left: 135px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2101px;
+  white-space: nowrap;
+  width: 213px;
+}
+
+.business-card .spot-uv {
+  left: 135px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2539px;
+  white-space: nowrap;
+  width: 213px;
+}
+
+.business-card .plastic {
+  left: 139px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3198px;
+  white-space: nowrap;
+  width: 213px;
+}
+
+.business-card .smart-wetap-metal {
+  left: 140px;
+  top: 3622px;
+  width: 250px;
+}
+
+.business-card .matteduv {
+  left: 666px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1212px;
+  white-space: nowrap;
+  width: 135px;
+}
+
+.business-card .suede-soft-velvet {
+  left: 665px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2106px;
+  white-space: nowrap;
+  width: 315px;
+}
+
+.business-card .raised-uv {
+  left: 665px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2539px;
+  white-space: nowrap;
+  width: 135px;
+}
+
+.business-card .smart-wetap-basic {
+  left: 665px;
+  top: 3198px;
+  width: 259px;
+}
+
+.business-card .smart-wetap-pvc {
+  left: 1178px;
+  top: 3198px;
+  width: 259px;
+}
+
+.business-card .glossy {
+  left: 1209px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1207px;
+  white-space: nowrap;
+  width: 135px;
+}
+
+.business-card .magnetic {
+  left: 1208px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2101px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.business-card .smooth-and-crisp-car {
+  left: 136px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1247px;
+  width: 269px;
+}
+
+.business-card .a-thicker-version-of {
+  left: 134px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2136px;
+  width: 269px;
+}
+
+.business-card .textured-gold-or-sil {
+  left: 134px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2575px;
+  width: 269px;
+}
+
+.business-card .frosted-or-solid-col {
+  left: 139px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3233px;
+  width: 269px;
+}
+
+.business-card .frosted-or-solid-col-1 {
+  left: 140px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3657px;
+  width: 269px;
+}
+
+.business-card .smooth-and-crisp-car-1 {
+  left: 666px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1247px;
+  width: 269px;
+}
+
+.business-card .silky-coated-textur {
+  left: 665px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2141px;
+  width: 269px;
+}
+
+.business-card .textured-gold-or-sil-1 {
+  left: 665px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2574px;
+  width: 269px;
+}
+
+.business-card .tap-and-share-your-c {
+  left: 665px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3233px;
+  width: 269px;
+}
+
+.business-card .tap-and-share-your-c-1 {
+  left: 1178px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3233px;
+  width: 269px;
+}
+
+.business-card .shiny-fines-that-makes-colors-pop {
+  left: 1209px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1242px;
+  width: 269px;
+}
+
+.business-card .keep-your-contact-de {
+  left: 1208px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2136px;
+  width: 269px;
+}
+
+.business-card .address {
+  left: 134px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1301px;
+  width: 223px;
+}
+
+.business-card .address-1 {
+  left: 137px;
+  top: 2190px;
+  width: 223px;
+}
+
+.business-card .address-2 {
+  left: 135px;
+  top: 2629px;
+  width: 223px;
+}
+
+.business-card .address-3 {
+  left: 136px;
+  top: 3287px;
+  width: 226px;
+}
+
+.business-card .starting-at-6999-ea {
+  left: 139px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3714px;
+  width: 223px;
+}
+
+.business-card .address-4 {
+  left: 665px;
+  top: 1301px;
+  width: 223px;
+}
+
+.business-card .address-5 {
+  left: 664px;
+  top: 2195px;
+  width: 223px;
+}
+
+.business-card .address-6 {
+  left: 664px;
+  top: 2628px;
+  width: 223px;
+}
+
+.business-card .starting-at-1599-ea {
+  left: 664px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3287px;
+  width: 223px;
+}
+
+.business-card .starting-at-4599-ea {
+  left: 1177px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3287px;
+  width: 223px;
+}
+
+.business-card .address-7 {
+  left: 1208px;
+  top: 1296px;
+  width: 223px;
+}
+
+.business-card .address-8 {
+  left: 1207px;
+  top: 2190px;
+  width: 234px;
+}
+
+.business-card .upgrade-to-16-pt-card {
+  left: 803px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1527px;
+  width: 623px;
+}
+
+.business-card .span1 {
+  color: var(--bay-of-many);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+}
+
+.business-card .want-to-grab-attention {
+  color: var(--geebung);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 500;
+  left: 327px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1462px;
+  width: 329px;
+}
+
+.business-card .upgrade-with-round-c {
+  left: 803px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1479px;
+  width: 610px;
+}
+
+.business-card .upgrade-with-round-c-1 {
+  left: 573px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2696px;
+  width: 610px;
+}
+
+.business-card .span1-1 {
+  color: var(--geebung);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+}
+
+.business-card .x352-inches-19-pt-card-stock {
+  left: 732px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1787px;
+  white-space: nowrap;
+  width: 292px;
+}
+
+.business-card .x352-inches-19-pt-card-stock-1 {
+  left: 732px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2881px;
+  white-space: nowrap;
+  width: 292px;
+}
+
+.business-card .premium-business-card {
+  left: 586px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1718px;
+  white-space: nowrap;
+  width: 584px;
+}
+
+.business-card .delux-business-card {
+  left: 629px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2812px;
+  white-space: nowrap;
+  width: 498px;
+}
+
+.business-card .have-bulk-brokerage-order {
+  color: var(--geebung);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 500;
+  left: 530px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3793px;
+  white-space: nowrap;
+  width: 697px;
+}
+
+.business-card .text-1 {
+  color: var(--bay-of-many);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-weight: 300;
+  left: 584px;
+  position: absolute;
+  top: 3865px;
+  white-space: nowrap;
+  width: 285px;
+}
+
+.business-card .email {
+  height: 44px;
+  left: 894px;
+  position: absolute;
+  top: 3866px;
+  width: 44px;
+}
+
+.business-card .phone {
+  height: 44px;
+  left: 535px;
+  position: absolute;
+  top: 3869px;
+  width: 44px;
+}
+
+.business-card .xyzgmailcom {
+  color: var(--bay-of-many);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-weight: 300;
+  left: 951px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3865px;
+  white-space: nowrap;
+  width: 269px;
+}
+
+.business-card .uncoated-1 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-116@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 229px;
+  justify-content: flex-end;
+  left: 134px;
+  min-width: 426px;
+  padding: 20px 19px;
+  position: absolute;
+  top: 961px;
+}
+
+.business-card .refresh {
+  height: 30px;
+  width: 30px;
+}
+
+.business-card .matteduv-1 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-105@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 229px;
+  justify-content: flex-end;
+  left: 1196px;
+  min-width: 426px;
+  padding: 13px 18px;
+  position: absolute;
+  top: 961px;
+}
+
+.business-card .preminum-matte {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-106@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 229px;
+  justify-content: flex-end;
+  left: 134px;
+  min-width: 426px;
+  padding: 12px 9px;
+  position: absolute;
+  top: 1858px;
+}
+
+.business-card .group-7 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-109@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 229px;
+  justify-content: flex-end;
+  left: 664px;
+  min-width: 426px;
+  padding: 6px 16px;
+  position: absolute;
+  top: 1858px;
+}
+
+.business-card .group-8 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-108@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 229px;
+  justify-content: flex-end;
+  left: 1177px;
+  min-width: 426px;
+  padding: 6px 11px;
+  position: absolute;
+  top: 1858px;
+}
+
+.business-card .rectangle-107 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-107@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  justify-content: flex-end;
+  left: 134px;
+  min-width: 426px;
+  padding: 12px 16px;
+  top: 2285px;
+}
+
+.business-card .group-10 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-110@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 229px;
+  justify-content: flex-end;
+  left: 666px;
+  min-width: 426px;
+  padding: 6px 15px;
+  position: absolute;
+  top: 2285px;
+}
+
+.business-card .rectangle-108 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-112@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  justify-content: flex-end;
+  left: 136px;
+  min-width: 426px;
+  padding: 12px 16px;
+  top: 2947px;
+}
+
+.business-card .rectangle-109 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-115@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  justify-content: flex-end;
+  left: 656px;
+  min-width: 426px;
+  padding: 12px 16px;
+  top: 2947px;
+}
+
+.business-card .rectangle-115 {
+  align-items: flex-start;
+  display: flex;
+  left: 664px;
+  min-width: 426px;
+  top: 961px;
+}
+
+.business-card .overlap-group {
+  height: 229px;
+  position: relative;
+  width: 426px;
+}
+
+.business-card .refresh-1 {
+  height: 30px;
+  left: 380px;
+  position: absolute;
+  top: 12px;
+  width: 30px;
+}
+
+.business-card .rectangle-114 {
+  left: 0;
+  top: 0;
+  width: 426px;
+}
+
+.business-card .smart-p-lastic {
+  align-items: flex-start;
+  background-image: url(../img/image-23@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 229px;
+  justify-content: flex-end;
+  left: 1177px;
+  min-width: 426px;
+  padding: 12px 16px;
+  position: absolute;
+  top: 2947px;
+}
+
+.business-card .smart-metal {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-120-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 229px;
+  justify-content: flex-end;
+  left: 134px;
+  min-width: 426px;
+  padding: 12px 16px;
+  position: absolute;
+  top: 3371px;
+}
+
+.business-card .component-17 {
+  align-items: flex-start;
+  left: 122px;
+  top: 48px;
+}
+
+.business-card .overlap-group1 {
+  height: 80px;
+  position: relative;
+  width: 1539px;
+}
+
+.business-card .component-16 {
+  align-items: center;
+  left: 0;
+  top: 0;
+}
+
+.business-card .image-6 {
+  align-self: flex-start;
+  cursor: pointer;
+  height: 69px;
+  object-fit: cover;
+  width: 69px;
+}
+
+.business-card .printontario {
+  align-self: flex-start;
+  color: transparent;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 13px;
+  margin-top: -1px;
+  min-height: 55px;
+  white-space: nowrap;
+  width: 292px;
+}
+
+.business-card .span0 {
+  color: var(--black);
+  font-weight: 600;
+}
+
+.business-card .span1-2 {
+  color: var(--bay-of-many);
+  font-weight: 300;
+}
+
+.business-card .group-47 {
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 36px;
+  margin-bottom: 14.0px;
+  margin-left: 163px;
+  width: 74px;
+}
+
+.business-card .place {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 74px;
+}
+
+.business-card .signs-banners-posters {
+  align-self: flex-end;
+  display: flex;
+  height: 63px;
+  margin-bottom: 2px;
+  margin-left: 184px;
+  width: 179px;
+}
+
+.business-card .signs-banners-posters-1 {
+  flex: 1;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  width: 179px;
+}
+
+.business-card .promotional-products {
+  align-self: flex-end;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 63px;
+  margin-bottom: 2px;
+  margin-left: 30px;
+  width: 157px;
+}
+
+.business-card .x-products {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 157px;
+}
+
+.business-card .real-estate-products {
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 59px;
+  margin-left: 38px;
+  margin-top: 3.0px;
+  width: 157px;
+}
+
+.business-card .contact-us {
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 28px;
+  margin-bottom: 22.0px;
+  margin-left: 30px;
+  width: 144px;
+}
+
+.business-card .contact-us-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+  width: 144px;
+}
+
+.business-card .business-czrd {
+  display: flex;
+  height: 63px;
+  left: 644px;
+  position: absolute;
+  top: 15px;
+  width: 112px;
+}
+
+.business-card .business-card-1 {
+  flex: 1;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  width: 112px;
+}
+
+.business-card .group-55 {
+  align-items: flex-start;
+  display: flex;
+  height: 83px;
+  left: 0;
+  min-width: 1728px;
+  position: absolute;
+  top: 4336px;
+}
+
+.business-card .overlap-group2 {
+  height: 83px;
+  position: relative;
+  width: 1728px;
+}
+
+.business-card .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  gap: 648px;
+  height: 83px;
+  left: 0;
+  min-width: 1728px;
+  padding: 18px 128px;
+  position: absolute;
+  top: 0;
+}
+
+.business-card .all-rights-reserved {
+  align-self: center;
+  color: transparent;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 13px;
+  white-space: nowrap;
+  width: 430px;
+}
+
+.business-card .span0-1 {
+  color: var(--black);
+}
+
+.business-card .span1-3 {
+  color: #427df0;
+}
+
+.business-card .group-43 {
+  display: flex;
+  gap: 72px;
+  width: 162px;
+}
+
+.business-card .group-43-item {
+  height: 45px;
+  width: 45px;
+}
+
+.business-card .tik-tok {
+  height: 45px;
+  left: 1545px;
+  position: absolute;
+  top: 18px;
+  width: 45px;
+}
+
+.business-card .pinterest {
+  height: 45px;
+  left: 1433px;
+  position: absolute;
+  top: 18px;
+  width: 45px;
+}
+
+.business-card .text-2 {
+  color: var(--bay-of-many);
+  font-family: var(--font-family-poppins);
+  font-size: 128px;
+  font-weight: 500;
+  left: 682px;
+  position: absolute;
+  top: 1438px;
+  white-space: nowrap;
+  width: 95px;
+}
+
+.business-card .frame-14 {
+  align-items: center;
+  background: linear-gradient(180deg, rgba(32, 51, 134, 0.5) 0%, rgba(201.03, 206.02, 227.8, 0.5) 100%);
+  display: flex;
+  height: 313px;
+  left: 0;
+  padding: 34px 71px;
+  position: absolute;
+  top: 4008px;
+  width: 1728px;
+}
+
+.business-card .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 2.0px;
+  min-height: 213px;
+  width: 279px;
+}
+
+.business-card .image-7 {
+  height: 108px;
+  margin-right: 31.0px;
+  object-fit: cover;
+  width: 120px;
+}
+
+.business-card .infoprintontariocom {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 25px;
+  min-height: 36px;
+  min-width: 279px;
+}
+
+.business-card .text-3 {
+  margin-right: 31.0px;
+  margin-top: 8px;
+  min-height: 36px;
+  min-width: 202px;
+}
+
+.business-card .flex-col-1 {
+  margin-bottom: 9.0px;
+  margin-left: 329px;
+  min-height: 204px;
+  width: 170px;
+}
+
+.business-card .social {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 36px;
+  width: 113px;
+}
+
+.business-card .facebook {
+  align-self: flex-end;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 18px;
+  min-height: 31px;
+  text-decoration: underline;
+  width: 165px;
+}
+
+.business-card .instagram {
+  align-self: flex-end;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 8px;
+  min-height: 31px;
+  text-decoration: underline;
+  width: 165px;
+}
+
+.business-card .pinterest-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 5px;
+  margin-top: 10px;
+  min-height: 31px;
+  text-decoration: underline;
+  width: 119px;
+}
+
+.business-card .tik-tok-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 5px;
+  margin-top: 8px;
+  min-height: 31px;
+  text-decoration: underline;
+  width: 87px;
+}
+
+.business-card .flex-col-2 {
+  align-self: flex-end;
+  margin-left: 85px;
+  min-height: 229px;
+  width: 295px;
+}
+
+.business-card .shop {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 36px;
+  width: 80px;
+}
+
+.business-card .place-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 18px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.business-card .business-card-2 {
+  cursor: pointer;
+  margin-top: 7px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.business-card .signs-banners-posters-2 {
+  cursor: pointer;
+  margin-top: 12px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.business-card .promotional-products-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 12px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.business-card .real-estate-products-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 12px;
+  min-height: 33px;
+  width: 250px;
+}
+
+.business-card .flex-col-3 {
+  align-self: flex-start;
+  margin-left: 85px;
+  margin-top: 16px;
+  min-height: 160px;
+  width: 269px;
+}
+
+.business-card .company {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 40px;
+  width: 183px;
+}
+
+.business-card .about-us {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 14px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.business-card .shipping-and-returns {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 6px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.business-card .payment-methods {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 10px;
+  min-height: 36px;
+  width: 269px;
+}
+
+.business-card .overlap-group3 {
+  align-items: flex-start;
+  background-image: url(../img/image-47.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 29px;
+  left: 0;
+  min-height: 565px;
+  padding: 64px 72px;
+  position: absolute;
+  top: 199px;
+  width: 1728px;
+}
+
+.business-card .business-card-3 {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 96px;
+  font-weight: 700;
+  min-height: 100px;
+  white-space: nowrap;
+}
+
+.business-card .sustainability-with-style {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 36px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 54px;
+  width: 446px;
+}
+
+.business-card .address-9 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+}
+
+.business-card .business-card-4 {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.business-card .component {
+  display: flex;
+  height: 80px;
+  min-width: 1539px;
+  position: absolute;
+}
+
+.business-card .flex-col-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.business-card .rectangle {
+  height: 229px;
+  position: absolute;
+}
+
+.business-card .signs-banners-posters-3 {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.business-card .smart-wetap {
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.business-card .text {
+  letter-spacing: 0;
+  line-height: normal;
+}

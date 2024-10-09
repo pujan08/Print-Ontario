@@ -1,0 +1,865 @@
+/* screen - merch */
+
+.merch {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 4554px;
+  overflow: hidden;
+  width: 1728px;
+}
+
+.merch .component-17 {
+  align-items: flex-start;
+  margin-left: 55.0px;
+  margin-top: 48px;
+}
+
+.merch .overlap-group {
+  height: 80px;
+  position: relative;
+  width: 1539px;
+}
+
+.merch .component-16 {
+  align-items: center;
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.merch .image-6 {
+  align-self: flex-start;
+  cursor: pointer;
+  height: 69px;
+  object-fit: cover;
+  width: 69px;
+}
+
+.merch .printontario {
+  align-self: flex-start;
+  color: transparent;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 13px;
+  margin-top: -1px;
+  min-height: 55px;
+  white-space: nowrap;
+  width: 292px;
+}
+
+.merch .span0 {
+  color: var(--black);
+  font-weight: 600;
+}
+
+.merch .span1 {
+  color: var(--bay-of-many);
+  font-weight: 300;
+}
+
+.merch .group-47 {
+  box-shadow: 0px 4px 4px #00000040;
+  height: 36px;
+  margin-bottom: 14.0px;
+  margin-left: 163px;
+  min-width: 74px;
+}
+
+.merch .place {
+  margin-top: -1px;
+  min-height: 36px;
+  width: 74px;
+}
+
+.merch .signs-banners-posters {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 63px;
+  margin-bottom: 2px;
+  margin-left: 184px;
+  min-width: 179px;
+}
+
+.merch .signs-banners-posters-1 {
+  margin-top: -1px;
+  min-height: 63px;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  width: 179px;
+}
+
+.merch .promotional-products {
+  align-items: flex-start;
+  align-self: flex-end;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 63px;
+  margin-bottom: 2px;
+  margin-left: 30px;
+  min-width: 157px;
+}
+
+.merch .promotional-products-1 {
+  margin-top: -1px;
+  min-height: 63px;
+  text-align: center;
+  width: 157px;
+}
+
+.merch .real-estate-products {
+  align-items: flex-start;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 59px;
+  margin-left: 38px;
+  margin-top: 3.0px;
+  min-width: 157px;
+}
+
+.merch .real-estate-products-1 {
+  margin-top: -1px;
+  min-height: 59px;
+  text-align: center;
+  width: 157px;
+}
+
+.merch .contact-us {
+  align-items: flex-start;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 28px;
+  margin-bottom: 22.0px;
+  margin-left: 30px;
+  min-width: 144px;
+}
+
+.merch .contact-us-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 28px;
+  white-space: nowrap;
+}
+
+.merch .business-czrd {
+  align-items: flex-start;
+  display: flex;
+  height: 63px;
+  left: 644px;
+  min-width: 112px;
+  position: absolute;
+  top: 15px;
+}
+
+.merch .business-card {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 63px;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  width: 112px;
+}
+
+.merch .overlap-group2 {
+  align-items: flex-end;
+  background-image: url(../img/image.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 46px;
+  margin-top: 36px;
+  min-height: 567px;
+  padding: 156px 138px;
+  width: 1728px;
+}
+
+.merch .promotional-products-2 {
+  color: var(--bay-of-many);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  min-height: 100px;
+  white-space: nowrap;
+  width: 1346px;
+}
+
+.merch .your-story-our-creativity {
+  align-self: center;
+  color: var(--bay-of-many);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 41.0px;
+  min-height: 54px;
+  width: 481px;
+}
+
+.merch .personalize-clothes-bags-more {
+  color: var(--bay-of-many);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1.0px;
+  margin-top: 90px;
+  min-height: 70px;
+  width: 809px;
+}
+
+.merch .from-daily-wear-to-t {
+  color: var(--bay-of-many);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 61.0px;
+  margin-top: 3px;
+  min-height: 36px;
+  width: 645px;
+}
+
+.merch .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 25px;
+  margin-right: 1.0px;
+  margin-top: 124px;
+  min-width: 1469px;
+}
+
+.merch .f-tshirt {
+  background-image: url(../img/rectangle-121@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 478px;
+  justify-content: flex-end;
+  min-width: 473px;
+  padding: 34px 31px;
+}
+
+.merch .refresh {
+  height: 60px;
+  width: 60px;
+}
+
+.merch .f-sweatshirt {
+  background-image: url(../img/jakayla-toney-sxts8n-of7o-unsplash-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 478px;
+  justify-content: flex-end;
+  min-width: 473px;
+  padding: 34px 31px;
+}
+
+.merch .f-hoodie {
+  box-shadow: 0px 4px 4px #00000040;
+  min-width: 473px;
+}
+
+.merch .group-3 {
+  background-image: url(../img/rectangle-122@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 478px;
+  justify-content: flex-end;
+  min-width: 473px;
+  padding: 34px 31px;
+}
+
+.merch .flex-row-1 {
+  height: 31px;
+  margin-right: 152.0px;
+  margin-top: 22px;
+  min-width: 1318px;
+}
+
+.merch .t-shirts {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 31px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.merch .sweatshirts {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 179px;
+  min-height: 31px;
+  white-space: nowrap;
+  width: 374px;
+}
+
+.merch .hoodies {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 125px;
+  min-height: 31px;
+  white-space: nowrap;
+}
+
+.merch .f-container {
+  align-self: flex-start;
+  gap: 25px;
+  margin-left: 129px;
+  margin-top: 123px;
+  min-width: 971px;
+}
+
+.merch .f-mug {
+  box-shadow: 0px 4px 4px #00000040;
+  min-width: 473px;
+}
+
+.merch .group-3-1 {
+  background-image: url(../img/rectangle-122-21@2x.png);
+}
+
+.merch .f-bottle {
+  box-shadow: 0px 4px 4px #00000040;
+  min-width: 473px;
+}
+
+.merch .group-3-2 {
+  background-image: url(../img/rectangle-122-4@2x.png);
+}
+
+.merch .flex-row-2 {
+  align-self: flex-start;
+  gap: 179px;
+  height: 31px;
+  margin-left: 131px;
+  margin-top: 31px;
+  min-width: 873px;
+}
+
+.merch .ceramic-m-ug {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 31px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.merch .stainless-steel-bottles {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 31px;
+  white-space: nowrap;
+}
+
+.merch .office-supply {
+  align-self: flex-start;
+  color: var(--bay-of-many);
+  font-family: var(--font-family-poppins);
+  font-size: 64px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 121px;
+  margin-top: 89px;
+  min-height: 72px;
+  white-space: nowrap;
+}
+
+.merch .f-container-1 {
+  margin-top: 83px;
+  min-width: 1472px;
+}
+
+.merch .f-pres-folder {
+  align-items: flex-start;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  min-width: 473px;
+}
+
+.merch .group-3-3 {
+  background-image: url(../img/rectangle-122-2@2x.png);
+}
+
+.merch .f-envelope {
+  margin-left: 26px;
+  min-width: 473px;
+}
+
+.merch .group-3-4 {
+  background-image: url(../img/rectangle-122-14@2x.png);
+}
+
+.merch .f-letter-head {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--black);
+  display: flex;
+  height: 480px;
+  margin-left: 25px;
+  min-width: 475px;
+}
+
+.merch .group-3-5 {
+  background-image: url(../img/rectangle-122-12@2x.png);
+}
+
+.merch .flex-row-3 {
+  height: 48px;
+  margin-right: 154.0px;
+  margin-top: 21px;
+  min-width: 1318px;
+}
+
+.merch .presentation-folders {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 48px;
+  min-width: 339px;
+}
+
+.merch .envelopes {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 160px;
+  min-height: 31px;
+  white-space: nowrap;
+  width: 374px;
+}
+
+.merch .letterheads {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 125px;
+  min-height: 31px;
+  white-space: nowrap;
+}
+
+.merch .f-container-2 {
+  align-self: flex-start;
+  gap: 25px;
+  margin-left: 128px;
+  margin-top: 60px;
+  min-width: 973px;
+}
+
+.merch .f-greeting-card {
+  align-items: flex-start;
+  display: flex;
+  min-width: 473px;
+}
+
+.merch .group-3-6 {
+  background-image: url(../img/rectangle-122-16@2x.png);
+}
+
+.merch .f-notepad {
+  border: 1px solid;
+  border-color: var(--black);
+  height: 480px;
+  min-width: 475px;
+}
+
+.merch .group-3-7 {
+  background-image: url(../img/rectangle-122-9@2x.png);
+}
+
+.merch .flex-row-4 {
+  align-self: flex-start;
+  gap: 125px;
+  height: 31px;
+  margin-left: 128px;
+  margin-top: 21px;
+  min-width: 819px;
+}
+
+.merch .greeting-cards {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 31px;
+  white-space: nowrap;
+  width: 374px;
+}
+
+.merch .notepads {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 31px;
+  white-space: nowrap;
+}
+
+.merch .title {
+  color: #d88d1c;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 152px;
+  min-height: 115px;
+  white-space: nowrap;
+  width: 1484px;
+}
+
+.merch .normal-delivery-5-to-7-business-days {
+  color: var(--bay-of-many);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1.0px;
+  margin-top: 66px;
+  min-height: 46px;
+  width: 609px;
+}
+
+.merch .express-delivery-2 {
+  color: var(--bay-of-many);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 46px;
+  width: 760px;
+}
+
+.merch .frame-14 {
+  align-items: center;
+  background: linear-gradient(180deg, rgba(32, 51, 134, 0.5) 0%, rgba(201.03, 206.02, 227.8, 0.5) 100%);
+  display: flex;
+  height: 313px;
+  margin-top: 100px;
+  padding: 34px 71px;
+  width: 1728px;
+}
+
+.merch .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 2.0px;
+  min-height: 213px;
+  width: 279px;
+}
+
+.merch .image-7 {
+  height: 108px;
+  margin-right: 31.0px;
+  object-fit: cover;
+  width: 120px;
+}
+
+.merch .infoprintontariocom {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 25px;
+  min-height: 36px;
+  min-width: 279px;
+}
+
+.merch .text-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 31.0px;
+  margin-top: 8px;
+  min-height: 36px;
+  min-width: 202px;
+}
+
+.merch .flex-col-1 {
+  margin-bottom: 9.0px;
+  margin-left: 329px;
+  min-height: 204px;
+  width: 170px;
+}
+
+.merch .social {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 36px;
+  width: 113px;
+}
+
+.merch .facebook {
+  align-self: flex-end;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 18px;
+  min-height: 31px;
+  text-decoration: underline;
+  width: 165px;
+}
+
+.merch .instagram {
+  align-self: flex-end;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 8px;
+  min-height: 31px;
+  text-decoration: underline;
+  width: 165px;
+}
+
+.merch .pinterest {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 5px;
+  margin-top: 10px;
+  min-height: 31px;
+  text-decoration: underline;
+  width: 119px;
+}
+
+.merch .tik-tok {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 5px;
+  margin-top: 8px;
+  min-height: 31px;
+  text-decoration: underline;
+  width: 87px;
+}
+
+.merch .flex-col-2 {
+  align-self: flex-end;
+  margin-left: 85px;
+  min-height: 229px;
+  width: 295px;
+}
+
+.merch .shop {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 36px;
+  width: 80px;
+}
+
+.merch .place-1 {
+  cursor: pointer;
+  margin-top: 18px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.merch .business-card-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 7px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.merch .signs-banners-posters-2 {
+  cursor: pointer;
+  margin-top: 12px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.merch .promotional-products-3 {
+  margin-top: 12px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.merch .real-estate-products-2 {
+  cursor: pointer;
+  margin-top: 12px;
+  min-height: 33px;
+  width: 250px;
+}
+
+.merch .flex-col-3 {
+  align-self: flex-start;
+  margin-left: 85px;
+  margin-top: 16px;
+  min-height: 160px;
+  width: 269px;
+}
+
+.merch .company {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 40px;
+  width: 183px;
+}
+
+.merch .about-us {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 14px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.merch .shipping-and-returns {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 6px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.merch .payment-methods {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 10px;
+  min-height: 36px;
+  width: 269px;
+}
+
+.merch .group-54 {
+  margin-left: 2.0px;
+  min-width: 1728px;
+}
+
+.merch .overlap-group1 {
+  height: 83px;
+  position: relative;
+  width: 1728px;
+}
+
+.merch .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  gap: 648px;
+  height: 83px;
+  left: 0;
+  min-width: 1728px;
+  padding: 18px 128px;
+  position: absolute;
+  top: 0;
+}
+
+.merch .all-rights-reserved {
+  align-self: center;
+  color: transparent;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 13px;
+  white-space: nowrap;
+  width: 430px;
+}
+
+.merch .span0-1 {
+  color: var(--black);
+}
+
+.merch .span1-1 {
+  color: #427df0;
+}
+
+.merch .group-43 {
+  gap: 72px;
+  min-width: 162px;
+}
+
+.merch .group-43-item {
+  height: 45px;
+  width: 45px;
+}
+
+.merch .tik-tok-1 {
+  height: 45px;
+  left: 1545px;
+  position: absolute;
+  top: 18px;
+  width: 45px;
+}
+
+.merch .pinterest-1 {
+  height: 45px;
+  left: 1433px;
+  position: absolute;
+  top: 18px;
+  width: 45px;
+}
+
+.merch .component {
+  display: flex;
+  min-width: 1539px;
+}
+
+.merch .f {
+  align-items: flex-start;
+  display: flex;
+}
+
+.merch .f-container-3 {
+  align-items: center;
+  display: flex;
+}
+
+.merch .flex-col-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.merch .flex-row-5 {
+  align-items: flex-start;
+  display: flex;
+}
+
+.merch .group {
+  align-items: flex-start;
+  display: flex;
+}
+
+.merch .group-3-8 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 478px;
+  justify-content: flex-end;
+  min-width: 473px;
+  padding: 34px 31px;
+}
+
+.merch .place-2 {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.merch .promotional-products-4 {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.merch .real-estate-products-3 {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.merch .signs-banners-posters-3 {
+  letter-spacing: 0;
+  line-height: normal;
+}
