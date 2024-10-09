@@ -3,7 +3,14 @@
 /* The following line is used to measure usage of this code. You can remove it if you want. */
 @import url("https://px.animaapp.com/66fddc0e3401717f55be2573.66fddc0f3401717f55be2579.A1l4UfV.hcp.png");
 
-
+@media (max-width: 600px) {
+  body {
+    font-size: 14px; /* Adjust font size */
+  }
+  .container {
+    width: 100%; /* Full width on mobile */
+  }
+}
 
 .screen a {
   display: contents;
