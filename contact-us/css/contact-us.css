@@ -72,7 +72,6 @@
 }
 
 .contact-us .group-47 {
-  box-shadow: 0px 4px 4px #00000040;
   display: flex;
   height: 36px;
   margin-bottom: 14.0px;
@@ -101,13 +100,11 @@
   letter-spacing: 0;
   line-height: normal;
   text-align: center;
-  text-shadow: 0px 4px 4px #00000040;
   width: 179px;
 }
 
 .contact-us .promotional-products {
   align-self: flex-end;
-  box-shadow: 0px 4px 4px #00000040;
   display: flex;
   height: 63px;
   margin-bottom: 2px;
@@ -124,7 +121,6 @@
 }
 
 .contact-us .real-estate-products {
-  box-shadow: 0px 4px 4px #00000040;
   display: flex;
   height: 59px;
   margin-left: 38px;
@@ -133,7 +129,6 @@
 }
 
 .contact-us .contact-us-1 {
-  box-shadow: 0px 4px 4px #00000040;
   display: flex;
   height: 28px;
   margin-bottom: 22.0px;
@@ -151,10 +146,10 @@
 
 .contact-us .business-czrd {
   display: flex;
-  height: 63px;
+  height: 67px;
   left: 644px;
   position: absolute;
-  top: 15px;
+  top: 20px;
   width: 112px;
 }
 
